@@ -1,1 +1,3 @@
 # machine-translarion
+
+Machine Translation is the process of automatically translating text from one natural language to another. Neural network-based models have outperformed traditional rule-based and statistical MT models. In this competition, the task was to develop a NMT system that was capable of translating Hindi text to English. In this report, a NMT has been proposed based on sequence-to-sequence architecture using gated RNNs such as LSTM and GRU. Techniques such as teacher forcing and attention have also been incorporated. The NMT system has achieved a BLEU score of 0.0161 and a METEOR score of 0.141 in the final phase of the competition.

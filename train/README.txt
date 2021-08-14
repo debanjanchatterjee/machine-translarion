@@ -1,0 +1,3 @@
+The train.csv file dataset provided contains Hindi and English parallel sentences. For each Hindi sentence in the first column, the second sentence contains the corresponding English translation.
+The training dataset has been curated from the following website: https://opus.nlpl.eu/
+The opinions expressed in the sentences provided are not of our own. We neither accept nor reject any of the statements given inside the database
