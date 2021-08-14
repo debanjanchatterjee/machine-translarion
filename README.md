@@ -1,1 +1,3 @@
-[embed]https://github.com/debanjanchatterjee/machine-translarion/blob/main/report.pdf[/embed]
+# machine-translarion
+
+Machine Translation is the process of automatically translating text from one natural language to another. Neural network-based models have outperformed traditional rule-based and statistical MT models. In this competition, the task was to develop a NMT system that was capable of translating Hindi text to English. In this report, a NMT has been proposed based on sequence-to-sequence architecture using gated RNNs such as LSTM and GRU. Techniques such as teacher forcing and attention have also been incorporated. 
